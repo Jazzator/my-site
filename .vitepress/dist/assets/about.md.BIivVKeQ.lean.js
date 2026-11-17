@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r,a0 as o}from"./chunks/framework.Cx-5KwGw.js";const m=JSON.parse('{"title":"Обо мне","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),l={name:"about.md"};function i(n,a,s,c,h,_){return t(),r("div",null,[...a[0]||(a[0]=[o("",6)])])}const p=e(l,[["render",i]]);export{m as __pageData,p as default};
